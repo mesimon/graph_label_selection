@@ -4,7 +4,7 @@ Running "python simple_graphs.py" yields the experimental results for the table 
 
 Running "python experiments.py" generates the trade-off figures for the Davis southern woman graph and the synthetic graphs. 
 
-Running "python table.py$ yields the experimental results for the experiments with SNAP graphs. This experiment takes a lot of time and should be run in parallel. 
+Running "python table.py" yields the experimental results for the experiments with SNAP graphs. This experiment takes a lot of time and should be run in parallel. 
 
 The algorithms are implemented in the following files: 
 
